@@ -1,4 +1,9 @@
+"use client"; // Add this line if you're using Next.js app directory
+
 import React from "react";
+
+
+
 
 import { useState } from 'react';
 

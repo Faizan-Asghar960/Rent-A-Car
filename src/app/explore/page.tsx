@@ -1,10 +1,9 @@
 import React from "react";
-import Image from "next/image";
-import Tesla from "../../../Public/Tesla.jpg"
+import Navbar from "../compnents/Header";
 
 
 import Link from 'next/link';
-
+<Navbar/>
 const cars = [
   {
     name: 'Tesla Model S',
