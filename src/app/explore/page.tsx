@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../compnents/Header";
-
-
+import Image from "next/image";
 import Link from 'next/link';
 <Navbar/>
 const cars = [
